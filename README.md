@@ -1,3 +1,3 @@
 # womantalk
 
-Buat Create Article
+Buat Create Article dulu
